@@ -50,5 +50,5 @@ Please note that, since the checks are performed on the actual VoucherCodes webs
 
 The framework covers various scenarios related to searching for restaurant offers on the VoucherCodes website. Test cases include:
 
-A successful search with valid parameters.
-Intentional test failure to provide useful data for debugging.
+- A successful search with valid parameters.
+- Intentional test failure to provide useful data for debugging.
