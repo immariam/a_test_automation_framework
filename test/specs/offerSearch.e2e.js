@@ -9,7 +9,7 @@ describe('Restaurant offers search', () => {
         await expect(await restaurantVouchersPage.noSearchResultsHeading.waitForDisplayed()).toBe(true);
     });
 
-// deliberately failing test cases with additional logging
+    // deliberately failing test cases with additional logging
     it('should not show "no results banner"', async () => {
         await restaurantVouchersPage.open();
         console.log('Opened restaurant vouchers page');
