@@ -44,7 +44,7 @@ This test automation framework uses Allure and Spec to generate reports for test
 
 Spec creates a clear, easy-to-read test report in the console.
 
-Allure generates JSON files in the allure-results directory for each test run. Use the command `allure generate allure-results && allure open` to generate and open a report in the browser.
+Allure generates JSON files in the allure-results directory for each test run. Use the command `allure generate --clean allure-results && allure open` to generate and open a report in the browser.
 
 Note: Java must be installed on your system to generate the Allure report.
 
