@@ -1,0 +1,8 @@
+# Error Screenshots Folder
+
+This folder is intended to store screenshots related to errors.
+
+## Instructions:
+- Automatically generated screenshots capturing errors will be placed in this folder.
+
+Note: This file is a placeholder and can be updated or replaced as needed.
