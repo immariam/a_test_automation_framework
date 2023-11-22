@@ -2,7 +2,17 @@
 
 This repository contains automated tests for VoucherCodes' website's restaurant offers search functionality. 
 
-The tests are implemented using WebdriverIO and JavaScript.
+## Testing Framework and Assertion Library
+
+The tests are implemented using [WebdriverIO](https://webdriver.io/), a powerful and flexible automation testing framework that simplifies browser automation. 
+
+### Assertion Library: WebdriverIO.Expect (Jest Extension)
+
+[WebdriverIO.Expect]([https://webdriver.io/docs/api/expect.html](https://webdriver.io/docs/api/expect-webdriverio/#browser-matchers)) is the assertion library used in these tests. It is an extension of [Jest's](https://jestjs.io/) `expect` library, providing a rich set of assertion methods for validating the state of the application.
+
+### Test Structure: Jasmine
+
+[Jasmine](https://jasmine.github.io/) is used for structuring the test suites and cases. It is a behavior-driven development (BDD) testing framework for JavaScript that provides a clean and expressive syntax for defining and organizing tests.
 
 ## Setup
 
