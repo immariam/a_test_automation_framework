@@ -2,6 +2,8 @@
 
 This repository contains automated tests for VoucherCodes' website's restaurant offers search functionality. 
 
+Note: This framework was designed as part of an assignment. However, it serves as an example of a scalable test automation framework for web applications you might find useful :) 
+
 ## Testing Framework and Assertion Library
 
 The tests are implemented using [WebdriverIO](https://webdriver.io/), a powerful and flexible automation testing framework that simplifies browser automation. 
