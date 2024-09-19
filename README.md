@@ -2,7 +2,7 @@
 
 This repository contains automated tests for VoucherCodes' website's restaurant offers search functionality. 
 
-Note: This framework was designed as part of an assignment. However, it serves as an example of a scalable test automation framework for web applications you might find useful :) 
+Note: This framework serves as an example of a scalable test automation framework for web applications you might find useful :) 
 
 ## Testing Framework and Assertion Library
 
